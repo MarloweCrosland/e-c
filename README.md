@@ -15,7 +15,7 @@ A back end for an ecommerce website - school project
 - [Questions](#questions)
 
 ## Installation
- npm i, then start the server using npm start. 
+ npm i to install all necessary packages, npm run seed to seed the tables. then start the server using npm start. 
         
 ## Usage
 -
