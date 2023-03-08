@@ -1,37 +1,53 @@
-<h1 align="center">e-commerce back end</h1>
-
-![check out this video!](ecommerce-screen-recording.mp4)<br />
+# E-commerce
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-A back end for an ecommerce website - school project
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+An example e-commerce site
+
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
 
 ## Installation
- npm i to install all necessary packages, npm run seed to seed the tables. then start the server using npm start. 
-        
+
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
+
 ## Usage
--
 
-## Licenses
--
 
+
+## License
+
+This project is licensed under the MIT license.
+  
 ## Contributing
--
+
+
 
 ## Tests
-You can test this using insomnia. (get, put, post, and delete routes are in the routes/api folder)
+
+To run tests, run the following command:
+
+```
+npm test
+```
 
 ## Questions
 
-Email me: marlowepdx@gmail.com
+If you have any questions about the repo, open an issue or contact me directly at marlowepdx@gmail.com. You can find more of my work at [MarloweCrosland](https://github.com/MarloweCrosland/).
 
-Find me on github: https://github.com/MarloweCrosland
-    
